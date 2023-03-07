@@ -44,3 +44,14 @@ print(motorcycles)
 using remove()'''
 motorcycles.remove("ducati")
 print(motorcycles)
+
+motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati'] 
+too_expensive = "ducati"
+motorcycles.remove(too_expensive)
+print(motorcycles)
+print("{} is too expensive for me".format(too_expensive.title()))
+
+'''The remove() method only deletes the first occurence of the value
+you specify. if there's a possibility the occurence appears more than
+once in this list, you'll need to use a loop to make all occurences of the value are 
+removed. More on that coming up'''

@@ -1,0 +1,10 @@
+age = 19
+if age >= 18:
+    print('YOu are old enough to vote')
+    print('Have you registered to vote yet?')
+else:
+    print('Sorry, you are too young to vote')
+    print('Please register as soon as you tunr 18')
+    
+
+'''if else statements'''
