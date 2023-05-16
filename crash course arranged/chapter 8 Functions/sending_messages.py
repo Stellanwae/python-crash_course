@@ -7,7 +7,8 @@ def send_messages():
         message = short_messages.pop()
         sent_messages.append(message)
     print('These are sent messages:')
-    print(sent_messages)
+    for message in sent_messages:
+        print(message)
 
 send_messages()
 
