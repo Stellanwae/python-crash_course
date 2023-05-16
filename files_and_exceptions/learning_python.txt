@@ -1,0 +1,7 @@
+In Python you can store variables
+In Python you can use while loops
+In Python you can loop through lists
+In Python you can store object characteristics in classes
+In Python you can open a text file and read through it using pytbon code
+In Python you can do simple mathematical calculations
+In Python you can write many simple codes and complex ones too
